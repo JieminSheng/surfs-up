@@ -35,4 +35,6 @@ This can be further confirmed when looking at precipitation when we can determin
 
 ![December_Precipitation.png](Resources/December_Precipitation.png)
 
+Above are descriptive statistics of precipitation. The first is a general summary including count of datapoints, mean, standard deviation, minimum, first quartile, median, third quartile, and maximum for the month of June. The second is for the month of December.
+
 As we can see, the mean precipitation for June is 0.14 inches when rounded to the second decimal place. Its median is 0.02 inches when rounded to the second decimal place so there is some skewing by outliers to the right. For 50% of the daily datapoints in June, it rains 0.02 inches or less. In December, the mean precipitation is 0.22 inches when rounded to the second decimal place. Its median is 0.03 inches when rounded to the second decimal place so there is also some skewing by outliers to the right. For 50% of the daily datapoints in June, it rains 0.03 inches or less. As it does not rain often in Oahu, we can say that it is very unlikely that surfers will be dissuaded from rain.
